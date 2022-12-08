@@ -4,6 +4,8 @@ RENCANA KONTEN CHETEL
   * buat akun
   * mempelajari github lewat youtube
 - SQL
+ ^ belajar lewat dqlab
 - Google Data Studio
+ ^ belajar dari myskill
 - Interview
 - Python
