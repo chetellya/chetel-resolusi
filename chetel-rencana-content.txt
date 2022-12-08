@@ -1,0 +1,6 @@
+RENCANA KONTEN CHETEL
+
+- Github
+- Google Data Studio
+- Interview
+- Python
