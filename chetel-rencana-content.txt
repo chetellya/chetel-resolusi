@@ -1,6 +1,8 @@
 RENCANA KONTEN CHETEL
 
 - Github
+  * buat akun
+  * mempelajari github lewat youtube
 - Google Data Studio
 - Interview
 - Python
