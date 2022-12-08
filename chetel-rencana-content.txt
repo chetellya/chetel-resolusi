@@ -9,4 +9,5 @@ RENCANA KONTEN CHETEL
 - Google Data Studio
  ^ belajar dari myskill
 - Interview
+  * latihan interview
 - Python
